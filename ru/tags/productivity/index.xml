@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Productivity | </title>
+    <link>https://amatienko.github.io/ru/tags/productivity/</link>
+      <atom:link href="https://amatienko.github.io/ru/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Productivity</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 18 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://amatienko.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Productivity</title>
+      <link>https://amatienko.github.io/ru/tags/productivity/</link>
+    </image>
+    
+    <item>
+      <title>Язык разметки Markdown</title>
+      <link>https://amatienko.github.io/ru/publications/02/</link>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://amatienko.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-что-такое-markdown&#34;&gt;✍️ Что такое Markdown?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — это легкий язык разметки, который позволяет форматировать текст с помощью простых символов. Его главная цель — сделать текст удобным для чтения как в исходном виде, так и после преобразования в HTML.&lt;/p&gt;
+&lt;p&gt;Он широко используется в документации, блогах, заметках и даже в системах контроля версий.&lt;/p&gt;
+&lt;h2 id=&#34;-основные-возможности&#34;&gt;⚙️ Основные возможности&lt;/h2&gt;
+&lt;p&gt;Markdown поддерживает базовое форматирование текста:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Заголовки&lt;/strong&gt; создаются с помощью символа &lt;code&gt;#&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Курсив&lt;/em&gt; и &lt;strong&gt;жирный текст&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Списки (нумерованные и маркированные)&lt;/li&gt;
+&lt;li&gt;Ссылки и изображения&lt;/li&gt;
+&lt;li&gt;Цитаты и блоки кода&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Пример:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;# Заголовок
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;## Подзаголовок
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gs&#34;&gt;**Жирный текст**&lt;/span&gt;, &lt;span class=&#34;ge&#34;&gt;*курсив*&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Пункт 1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Пункт 2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[&lt;span class=&#34;nt&#34;&gt;Ссылка&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;https://example.com&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;-почему-markdown-популярен&#34;&gt;💡 Почему Markdown популярен?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 Простота — легко освоить за короткое время&lt;/li&gt;
+&lt;li&gt;⚡ Быстрота — не требует сложных инструментов&lt;/li&gt;
+&lt;li&gt;🔄 Универсальность — поддерживается многими платформами&lt;/li&gt;
+&lt;li&gt;👀 Читаемость — текст понятен даже без форматирования&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-где-используется&#34;&gt;🧑‍💻 Где используется?&lt;/h2&gt;
+&lt;p&gt;Markdown активно применяется:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;в README-файлах на GitHub&lt;/li&gt;
+&lt;li&gt;в блогах и статических сайтах&lt;/li&gt;
+&lt;li&gt;в системах заметок (например, Notion)&lt;/li&gt;
+&lt;li&gt;в документации проектов&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-итог&#34;&gt;🚀 Итог&lt;/h2&gt;
+&lt;p&gt;Markdown — это удобный инструмент для работы с текстом, который экономит время и упрощает процесс оформления информации. Он особенно полезен для студентов, разработчиков и всех, кто регулярно работает с текстовыми материалами.&lt;/p&gt;
+&lt;p&gt;Если вы ещё не используете Markdown — самое время попробовать!&lt;/p&gt;
+&lt;p&gt;А вы уже применяете Markdown в учебе или работе? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
