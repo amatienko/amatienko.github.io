@@ -54,7 +54,7 @@
       href="https://amatienko.github.io/ru/courses/hugo-blox/guide/configuration/"
     /></url>
   <url>
-    <loc>https://amatienko.github.io/ru/tags/academic/</loc><lastmod>2026-03-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://amatienko.github.io/ru/tags/academic/</loc><lastmod>2026-03-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://amatienko.github.io/tags/academic/"
@@ -63,6 +63,46 @@
       hreflang="ru"
       href="https://amatienko.github.io/ru/tags/academic/"
     /></url>
+  <url>
+    <loc>https://amatienko.github.io/ru/publications/</loc><lastmod>2026-03-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://amatienko.github.io/publications/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://amatienko.github.io/ru/publications/"
+    /></url>
+  <url>
+    <loc>https://amatienko.github.io/ru/tags/research/</loc><lastmod>2026-03-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://amatienko.github.io/ru/tags/student-life/</loc><lastmod>2026-03-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://amatienko.github.io/ru/tags/</loc><lastmod>2026-03-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://amatienko.github.io/tags/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://amatienko.github.io/ru/tags/"
+    /></url>
+  <url>
+    <loc>https://amatienko.github.io/ru/publications/03/</loc><lastmod>2026-03-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://amatienko.github.io/ru/blog/</loc><lastmod>2026-03-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://amatienko.github.io/blog/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://amatienko.github.io/ru/blog/"
+    /></url>
+  <url>
+    <loc>https://amatienko.github.io/ru/tags/business-informatics/</loc><lastmod>2026-03-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://amatienko.github.io/ru/blog/03/</loc><lastmod>2026-03-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://amatienko.github.io/ru/tags/markdown/</loc><lastmod>2026-03-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
@@ -76,43 +116,9 @@
   <url>
     <loc>https://amatienko.github.io/ru/tags/productivity/</loc><lastmod>2026-03-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://amatienko.github.io/ru/publications/</loc><lastmod>2026-03-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://amatienko.github.io/publications/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://amatienko.github.io/ru/publications/"
-    /></url>
-  <url>
-    <loc>https://amatienko.github.io/ru/tags/</loc><lastmod>2026-03-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://amatienko.github.io/tags/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://amatienko.github.io/ru/tags/"
-    /></url>
-  <url>
     <loc>https://amatienko.github.io/ru/tags/tools/</loc><lastmod>2026-03-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://amatienko.github.io/ru/publications/02/</loc><lastmod>2026-03-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://amatienko.github.io/ru/blog/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://amatienko.github.io/blog/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://amatienko.github.io/ru/blog/"
-    /></url>
-  <url>
-    <loc>https://amatienko.github.io/ru/tags/business-informatics/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://amatienko.github.io/ru/tags/student-life/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://amatienko.github.io/ru/blog/02/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
